@@ -1,0 +1,2 @@
+Enter Comment,Toxicity Scores,timestamp
+You did a great job on this project!,"{""label"": ""toxic"", ""confidences"": [{""label"": ""toxic"", ""confidence"": 0.00879634078592062}, {""label"": ""insult"", ""confidence"": 0.0001056059481925331}, {""label"": ""obscene"", ""confidence"": 7.577320502605289e-05}, {""label"": ""identity_hate"", ""confidence"": 3.920530161849456e-06}, {""label"": ""threat"", ""confidence"": 3.109168389414663e-08}, {""label"": ""severe_toxic"", ""confidence"": 6.332925850394133e-11}]}",2026-01-01 13:56:16.309694
